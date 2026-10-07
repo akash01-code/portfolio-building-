@@ -11,4 +11,4 @@ SRN:R25EJ006
 ## Projects
 
 *MarketMate*
-A platform designed to connect students with local businesses for marketing roles. Currently focusing on the UI/UX requirements, functional feature mapping, and core business model iterations.
+A platform designed to connect students with local businesses for marketing roles. Currently focusing on the UI/UX requirements, functional feature mapping, and core business model iterations..
